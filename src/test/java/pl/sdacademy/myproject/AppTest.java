@@ -1,4 +1,4 @@
-package pl.sdacademy.tarr2020java6;
+package pl.sdacademy.myproject;
 
 import org.junit.Test;
 
